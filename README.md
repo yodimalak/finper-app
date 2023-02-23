@@ -8,3 +8,4 @@ Aplikasi membantu menemukan Pembantu rumah tangga
 - [ ] Login & Register
 - [ ] Profile
 - [ ] Owner
+- [ ] Mitra
